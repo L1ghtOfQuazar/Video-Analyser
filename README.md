@@ -28,3 +28,6 @@ docker compose up --build
 - `http://localhost:8000`
 - `http://localhost:8000/dashboard`
 - `http://localhost:8000/docs`
+
+Видеозапись функций приложения:
+https://rutube.ru/video/private/ecb5c8bed4d5f722443a1daef838ad8c/?p=8FTURPX6EusO1L95jIUZMA
